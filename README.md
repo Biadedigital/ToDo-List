@@ -1,6 +1,6 @@
 ## ToDo List
 
-using React Ref hooks to target current focus 
+using React Ref hooks to target the current focus 
 
 ## Tools
 - [React](https://reactjs.org/)
@@ -14,4 +14,4 @@ using React Ref hooks to target current focus
 
 ## Code
 - [Code-on-Replit](https://replit.com/@Biademade/ToDo-List?v=1)
-- [Code-on-Github](https://github.com/Biadedigital/CounterJS)
+- [Code-on-Github](https://github.com/Biadedigital/ToDo-List)
